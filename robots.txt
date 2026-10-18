@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /merci/
+Sitemap: https://portfolio.semtarn.fr/sitemap.xml
